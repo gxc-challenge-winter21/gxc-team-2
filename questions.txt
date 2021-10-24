@@ -11,3 +11,11 @@ How long does it take to make profit on this operation?
 How long will these bike be usable until they need to be replenished?
 
 What are the main risks? (e.g people throw bikes into lakes, ...)
+
+
+•	Why is folding bike the best alternative (may our solution consider other modes of transport?) 
+•	Are we only working with the trains currently available (do we have trains that have suitable spaces to stow the folded bikes?)
+•	What does a typical user of the new system look like ?? (e.g. daily commuter, someone on a day/weekendtrip) 
+•	What will be the preferred time frames for the rental? (Daily / subscription based?)
+•	-> if subscription: can the subscriber only use one specific bike or all bike (difference in subscriptions maybe ) 
+
