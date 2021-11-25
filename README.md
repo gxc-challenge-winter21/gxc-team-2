@@ -5,6 +5,9 @@
          width=300" height="200">
 </a>
 You can find everything you need to know about this repository on the wiki page.
+                                
+[Link to the wiki](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki)
+                                
 Go ahead and take a look!
 
 **Have Fun!**
