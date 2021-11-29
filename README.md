@@ -8,13 +8,15 @@ The **goal of the challenge** has been to create a buisness solution for [Deutsc
 
 After meeting our team-members, we started with the research and came up with the question: "Why and Who even would want to use a bike rental and how could we make it fit into the existing Deutsche Bahn products?". So we came up with a user story.
 
-## User Story
+
+<h2 style="color:red">User Story</h2>
 
 ![](images/storyboard%20uni%20commute.PNG)
 
 The detailed process of the User Story can be found [here](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki/Buisness-Side-of-Things#a-potential-userstory).
 
-# Team 2 Bike - The easy solution for bike rental
+
+<h1 style="color:red">Team 2 Bike - The easy solution for bike rental</h1>
 
 Team 2 Bike is going to offer the users of Deutsche Bahn a cheap, healthy and ecofriendly alternative for public transportation. With the comfortable option to pay via paypall, users will be able to use the bikes anytime they want. Additionally, Team 2 Bike a sharing option to compare bike usage statistics with his friends on social media.   
 
