@@ -1,4 +1,6 @@
-# About Team 2 Bike <img align=”left” src=”https://github.com/gxc-challenge-winter21/gxc-team-2/blob/main/images/logo2.png” width=350” height=”200”>
+# About us: Team 2 Bike
+
+<img align="right" src="https://github.com/gxc-challenge-winter21/gxc-team-2/blob/main/images/logo2.png" width="300" height="180">
 
 Welcome to the repository of Team 2 Bike, the mobile app that offers a bike rental system to all type of people looking to be healthier, more ecofriendly or simply do not want to use the train all the time. We are a young group of four students that came together in the [GXC International Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.html) and had to complete a challenge. 
 
@@ -8,7 +10,7 @@ After meeting our team-members, we started with the research and came up with th
 
 ## User Story
 
-TODO: Add User Story
+![](https://github.com/gxc-challenge-winter21/gxc-team-2/blob/main/storyboard%20uni%20commute.PNG)
 
 The detailed process of the User Story can be found [here](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki/Buisness-Side-of-Things#a-potential-userstory).
 
@@ -20,6 +22,6 @@ Team 2 Bike is going to offer the users of Deutsche Bahn a cheap, healthy and ec
 
 TODO: Add Image of Prototyp
 
-To see the complete prototype, click [here](https://www.google.de)
+To see the complete prototype, click [here](https://www.google.de).
 
 ### [Full Documentation](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki)
