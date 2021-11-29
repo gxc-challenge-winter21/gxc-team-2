@@ -10,7 +10,7 @@ After meeting our team-members, we started with the research and came up with th
 
 ## User Story
 
-![](storyboard%20uni%20commute.PNG)
+![](images/storyboard%20uni%20commute.PNG)
 
 The detailed process of the User Story can be found [here](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki/Buisness-Side-of-Things#a-potential-userstory).
 
