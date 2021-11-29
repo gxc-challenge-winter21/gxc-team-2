@@ -25,7 +25,6 @@ Team 2 Bike is going to offer the users of Deutsche Bahn a cheap, healthy and ec
 TODO: Add Image of Prototyp
 
 To see the complete prototype, click [here](https://www.google.de).
-<h1><a href="#">heading</a></h1>
 <h3 style="color:red"><a href="https://github.com/gxc-challenge-winter21/gxc-team-2/wiki">Full Documentation</a></h3>
 
 ### [Full Documentation](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki)
