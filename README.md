@@ -1,4 +1,4 @@
-# About us: Team 2 Bike
+<h1 style="color:red">About us: Team 2 Bike</h1>
 
 <img align="right" src="images/logo2.png" width="300" height="180">
 
