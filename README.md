@@ -22,6 +22,7 @@ Team 2 Bike is going to offer the users of Deutsche Bahn a cheap, healthy and ec
 
 **The application will create a new user-base for Deutsche Bahn and reduce its current ecological footprint while remaining fair prices.**
 
+![](/images/commercial-image.PNG)
 <img align="center" src="/images/commercial-image.PNG">
 
 To see the complete prototype, click [here](https://www.google.de).
