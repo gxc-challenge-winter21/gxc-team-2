@@ -22,10 +22,9 @@ Team 2 Bike is going to offer the users of Deutsche Bahn a cheap, healthy and ec
 
 **The application will create a new user-base for Deutsche Bahn and reduce its current ecological footprint while remaining fair prices.**
 
-TODO: Add Image of prototype
+<img align="center" src="/images/commercial-image.PNG">
 
 To see the complete prototype, click [here](https://www.google.de).
 <h3><a style="color:red" href="https://github.com/gxc-challenge-winter21/gxc-team-2/wiki">Full Documentation</a></h3>
 
-### [Full Documentation](https://github.com/gxc-challenge-winter21/gxc-team-2/wiki)
 
