@@ -27,4 +27,8 @@ Team 2 Bike is going to offer the users of Deutsche Bahn a cheap, healthy and ec
 To see the complete prototype, click [here](https://www.google.de).
 <h3><a style="color:red" href="https://github.com/gxc-challenge-winter21/gxc-team-2/wiki">Full Documentation</a></h3>
 
+Team Members:
 
+Adrian Geilen
+
+Nikola Sandurkov
