@@ -32,3 +32,7 @@ Team Members:
 Adrian Geilen
 
 Nikola Sandurkov
+
+Ilya Kalutskikh
+
+Svea Pospischil
